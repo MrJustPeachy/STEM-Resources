@@ -3,6 +3,9 @@
 
 # STEM-Resources
 
+## IDEA Lab - Recreate the worm / make an arduino project
+[IDEA Lab Denver Library](https://www.denverlibrary.org/idealab)
+
 ## Beginning to code
 [Code.org video](https://www.youtube.com/watch?v=nKIu9yen5nc)
 
