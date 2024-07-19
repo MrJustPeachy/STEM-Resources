@@ -1,6 +1,12 @@
 # Information Strategy and Services Website
 [ISS Website](https://www.cuanschutz.edu/offices/iss/home)
 
+# Degrees
+Computer Engineering - Focused on hardware & software
+
+Computer Science - Focused on software
+
+
 # STEM-Resources
 
 ## IDEA Lab - Recreate the worm / make an arduino project
