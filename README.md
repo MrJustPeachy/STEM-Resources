@@ -45,3 +45,6 @@ Computer Science - Focused on software
 ## Contacts
 ### Dillon Pietsch
 [Github](https://github.com/mrjustpeachy)
+
+### Stephen Printup
+[Github](https://github.com/sprintup)
